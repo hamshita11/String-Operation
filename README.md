@@ -1,5 +1,7 @@
 # String-Operation
 Aim : To encrypt and decrypt the entered string.
+      To reverse an entered string .
+     
 
 
 Description:
